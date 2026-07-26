@@ -1,0 +1,14 @@
+# Bundled parser metadata for the IntentDiff language-info API.
+# Plugin code exposes this data; the host still owns trust and provenance.
+
+[plugin]
+author = IntentDiff
+plugin_version = 0.1.0
+last_updated = 2026-05-19
+
+[language.swift]
+language_name = Swift
+language_short_name = Swift
+monaco_language = swift
+default_filename = code.swift
+language_file_extensions = 
